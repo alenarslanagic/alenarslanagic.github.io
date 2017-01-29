@@ -1,0 +1,104 @@
+
+body {
+	font-size: 24px;
+}
+
+
+.header {
+	text-align: center;
+	font-size: 60px;
+	font-style: Helvetica;
+}
+/*
+.padding {
+	padding: 50px;
+	width: 35%;
+	float: left;
+}
+*/
+
+.Paragraphs {
+	padding-left: 30px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	width: 45%;
+	float: left;
+	text-align: justify;
+}
+
+.padding {
+	padding: 10px;
+}
+
+.height {
+	height: 100%;
+}
+.green {
+	background-color: rgb(92, 184, 92);
+}
+
+.special-blue {
+	background-color: rgb(91, 192, 222);
+}
+
+.orange {
+	background-color: rgb(240, 174, 78);
+}
+
+.red {
+	background-color: rgb(217, 83, 79);
+}
+.hsize {
+	font-size: 18px;
+}
+
+.psize {
+	font-size: 16px;
+}
+
+.align {
+	text-align: justify;
+}
+
+.boldTitle {
+	font-size: 14px;
+	font-style: bold;
+}
+
+.margin {
+	margin-top: 10px;
+}
+
+.customNavbar {
+	background-color: rgb(2, 117, 216);
+	color: white;
+}
+
+.white {
+	color: white;
+	position: absolute;
+    right: 280px;
+    top: 10px;
+}
+
+.insideNavbarLeft {
+	padding-left: 95px;
+	color: white;
+}
+
+.insideNavbarRight {
+	padding-right: 200px;
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
+
+.textAlign {
+	text-align: center;
+}
+
+.transparent {
+	background-color: rgb(2, 117, 216)!important;
+}
